@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<cabang><![CDATA[JAKARTA 1]]></cabang>
+		<namacabang><![CDATA[JAKARTA 1]]></namacabang>
+		<namapic><![CDATA[VACANT]]></namapic>
+		<nopic><![CDATA[085333753996]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Ancol 1 No. 9 - 10, Ancol Barat, Pademangan, Jakarta Utara DKI Jakarta - 14430]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[14430]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[JAKARTA 2]]></cabang>
+		<namacabang><![CDATA[JAKARTA 2]]></namacabang>
+		<namapic><![CDATA[WILLIAM BOENTIONO]]></namapic>
+		<nopic><![CDATA[081388182727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Ancol Barat VIII No. 2, Ancol Barat, Pademangan, Jakarta Utara DKI Jakarta - 14430]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[14430]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[TANGERANG 2]]></cabang>
+		<namacabang><![CDATA[TANGERANG 2]]></namacabang>
+		<namapic><![CDATA[DUWI LAELA HAYATI]]></namapic>
+		<nopic><![CDATA[089529082727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Raya Serang Km. 09 No. 1B, Zona Industri Manis, Kadu Jaya, Curug Tangerang, Banten - 15810]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[15810]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[PURWAKARTA]]></cabang>
+		<namacabang><![CDATA[PURWAKARTA]]></namacabang>
+		<namapic><![CDATA[SUYONO (JOHN CHRISTIAN)]]></namapic>
+		<nopic><![CDATA[081393902727]]></nopic>
+		<alamatkantorcabang><![CDATA[Kawasan Industri Kota Bukit Indah Sektor N Blok B1 No. 5, Dangdeur Bungursari, Purwakarta, Jawa Barat - 41181]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[41181]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[BEKASI]]></cabang>
+		<namacabang><![CDATA[BEKASI]]></namacabang>
+		<namapic><![CDATA[EDI SUTRISNO]]></namapic>
+		<nopic><![CDATA[081181102727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Jababeka Raya Blok A No. 6 - 15, Pasir Gombong, Cikarang Utara Bekasi, Jawa Barat - 17530]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[17530]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[SURABAYA]]></cabang>
+		<namacabang><![CDATA[SURABAYA]]></namacabang>
+		<namapic><![CDATA[ANDREAS FAJAR NOVI H.]]></namapic>
+		<nopic><![CDATA[082230832727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Jenggala No. 22, Gedangan, Sidoarjo Jawa Timur - 61254]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[61254]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[BOGOR 2]]></cabang>
+		<namacabang><![CDATA[BOGOR 2]]></namacabang>
+		<namapic><![CDATA[M. HANAFI LABAY]]></namapic>
+		<nopic><![CDATA[082254502727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Raya Bogor Km. 46.7, Nanggewer Mekar, Cibinong Bogor, Jawa Barat - 16912]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[16912]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[TANGERANG 1]]></cabang>
+		<namacabang><![CDATA[TANGERANG 1]]></namacabang>
+		<namapic><![CDATA[TAHIR RISNANDAR]]></namapic>
+		<nopic><![CDATA[082210232727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Raya Serang Km. 09 No. 1A, Zona Industri Manis, Kadu Jaya, Curug Tangerang, Banten - 15810]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[15810]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[BANDUNG]]></cabang>
+		<namacabang><![CDATA[BANDUNG]]></namacabang>
+		<namapic><![CDATA[KIKI SAEPUL MIKDAR]]></namapic>
+		<nopic><![CDATA[081234402727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Jendral Ahmad Yani No. 806, Cicaheum, Kiara Condong Bandung, Jawa Barat - 40282]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[40282]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[GRESIK]]></cabang>
+		<namacabang><![CDATA[GRESIK]]></namacabang>
+		<namapic><![CDATA[MIFTAKHUL QISHOSH]]></namapic>
+		<nopic><![CDATA[08113022727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Raya Duduk Sampean, Ambeng-ambeng Watang Rejo Duduk Sampean, Gresik, Jawa Timur - 61162]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[61162]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[PARUNG]]></cabang>
+		<namacabang><![CDATA[PARUNG]]></namacabang>
+		<namapic><![CDATA[HENDY APRILLIYAN LISMAN]]></namapic>
+		<nopic><![CDATA[08119132727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Pembangunan Raya Gunung Sindur No. 21A, RT01 RW02 Gunung Sindur, Bogor, Jawa Barat - 16340]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[16340]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[LEBAK]]></cabang>
+		<namacabang><![CDATA[LEBAK]]></namacabang>
+		<namapic><![CDATA[SILANANDO LEONARD]]></namapic>
+		<nopic><![CDATA[081110552727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Raya Rangkas Bitung Pandeglang Km. 12, Cibuah, Warung Gunung Lebak, Banten - 42352]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[42352]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[JOMBANG]]></cabang>
+		<namacabang><![CDATA[JOMBANG]]></namacabang>
+		<namapic><![CDATA[I PUTU KRISNA BUGI BAYUGA]]></namapic>
+		<nopic><![CDATA[08113012727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Peterongan Km. 71.3, Dusun Janti, Sambirejo, Jogoroto Jombang, Jawa Timur - 61483]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[61483]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[MALANG]]></cabang>
+		<namacabang><![CDATA[MALANG]]></namacabang>
+		<namapic><![CDATA[OKKY PRASTYAWAN]]></namapic>
+		<nopic><![CDATA[08113392727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Mayjen Sungkono No. 99, RT.01 RW.02, Wonokoyo, Kedung Kandang Malang, Jawa Timur - 65136]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[65136]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[BOGOR 1]]></cabang>
+		<namacabang><![CDATA[BOGOR 1]]></namacabang>
+		<namapic><![CDATA[NATANAEL ALFANO]]></namapic>
+		<nopic><![CDATA[081112022727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Raya Alternatif Sentul Km. 46, Cijujung, Sukaraja Bogor, Jawa Barat - 16710]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[16710]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[YOGYAKARTA]]></cabang>
+		<namacabang><![CDATA[YOGYAKARTA]]></namacabang>
+		<namapic><![CDATA[FERA DIAN INDRAWATI]]></namapic>
+		<nopic><![CDATA[081334342727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Ringroad Barat, No. 99, Padukuhan Salakan, Trihanggo, Gamping Sleman, DI Yogyakarta - 55514]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[55514]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[KLATEN]]></cabang>
+		<namacabang><![CDATA[KLATEN]]></namacabang>
+		<namapic><![CDATA[SIMONDITO HALOMOAN S.]]></namapic>
+		<nopic><![CDATA[082316652727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Penggung Jatinom Petung, Blanceran, Karanganom Klaten, Jawa Tengah - 57475]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[57475]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[CIREBON]]></cabang>
+		<namacabang><![CDATA[CIREBON]]></namacabang>
+		<namapic><![CDATA[MAMUN JAUHARI]]></namapic>
+		<nopic><![CDATA[087818602727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Pangeran Antasari Blok Petapan, Kejuden, Depok Cirebon, Jawa Barat - 45155]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[45155]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[JEMBER]]></cabang>
+		<namacabang><![CDATA[JEMBER]]></namacabang>
+		<namapic><![CDATA[IMANUEL GEORGIO]]></namapic>
+		<nopic><![CDATA[08113192727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Piere Tendean No. 99A, Dusun Tegal Bai, Karangrejo, Sumber Sari Jember, Jawa Timur - 68127]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[68127]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[SEMARANG]]></cabang>
+		<namacabang><![CDATA[SEMARANG]]></namacabang>
+		<namapic><![CDATA[YOSUA ARIF SUSANTO]]></namapic>
+		<nopic><![CDATA[081315832727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Industri Tugu 1 Kav. 2 - 4, Randugarut, Tugu, Semarang, Jawa Tengah - 50010]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[50010]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[BANDAR LAMPUNG]]></cabang>
+		<namacabang><![CDATA[BANDAR LAMPUNG]]></namacabang>
+		<namapic><![CDATA[YUNUS GINTING]]></namapic>
+		<nopic><![CDATA[08117922727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Tembesu No. 8, Campang Raya, Kali Balok, Bandar Lampung Lampung - 35122]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[35122]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[BALI & LOMBOK]]></cabang>
+		<namacabang><![CDATA[BALI & LOMBOK]]></namacabang>
+		<namapic><![CDATA[SAMUEL G. ENDICO]]></namapic>
+		<nopic><![CDATA[081388077720]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Mengwi Singaraja No. 17, Werdi Bhuwana, Mengwi Badung, Bali - 80351]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[80351]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[MEDAN]]></cabang>
+		<namacabang><![CDATA[MEDAN]]></namacabang>
+		<namapic><![CDATA[PAULUS ANGGA RADITYA]]></namapic>
+		<nopic><![CDATA[08116282727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Industri Dusun I No. 60, Tanjung Morawa B, Tanjung Morawa Deli Serdang, Sumatera Utara - 20582]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[20582]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[PALEMBANG]]></cabang>
+		<namacabang><![CDATA[PALEMBANG]]></namacabang>
+		<namapic><![CDATA[RADHAR TEJA DAHANA]]></namapic>
+		<nopic><![CDATA[08117152727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Pangeran Ayin No. 326, Sukamaju, Sako, Palembang Sumatera Selatan - 30164]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[30164]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[BENGKULU]]></cabang>
+		<namacabang><![CDATA[BENGKULU]]></namacabang>
+		<namapic><![CDATA[M. RIDWAN]]></namapic>
+		<nopic><![CDATA[081112102727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Depati Payung Negara RT 003 RW 003. Kelurahan Betungan. Kecamatan Selebar. Kota Bengkulu Provinsi Bengkulu - 38214]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[38214]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[MAKASSAR]]></cabang>
+		<namacabang><![CDATA[MAKASSAR]]></namacabang>
+		<namapic><![CDATA[RAMDANI]]></namapic>
+		<nopic><![CDATA[082133422727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Kima 10 Blok A5 - A5a, Daya, Biring Kanaya, Makassar Sulawesi Selatan - 90241]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[90241]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[ACEH]]></cabang>
+		<namacabang><![CDATA[ACEH]]></namacabang>
+		<namapic><![CDATA[IMAM SYAFII]]></namapic>
+		<nopic><![CDATA[081110562727]]></nopic>
+		<alamatkantorcabang><![CDATA[JL. Laksamana Malahayati, Baet, Baitussalam, Kab. Aceh Besar, 23373]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[23373]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[PEKANBARU]]></cabang>
+		<namacabang><![CDATA[PEKANBARU]]></namacabang>
+		<namapic><![CDATA[DODI CAHYONO]]></namapic>
+		<nopic><![CDATA[08117532727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Raya Teratak Buluh 88, Lintas Pekanbaru - Teluk Kuantan, Siak Hulu Kampar, Riau - 28293]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[28293]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[SAMARINDA]]></cabang>
+		<namacabang><![CDATA[SAMARINDA]]></namacabang>
+		<namapic><![CDATA[SUJACK MARYONO]]></namapic>
+		<nopic><![CDATA[082155872727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Urip Sumoharjo No. 24A, Sidomulyo, Samarinda Ilir Samarinda, Kalimantan Timur - 75116]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[75116]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[PONTIANAK]]></cabang>
+		<namacabang><![CDATA[PONTIANAK]]></namacabang>
+		<namapic><![CDATA[FENRICO NUR EKA PUTRA]]></namapic>
+		<nopic><![CDATA[085245496621]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. Ya’m Sabran Komplek Ruko Anggrek No. H15 - 18, Tanjung Hulu Pontianak Timur, Pontianak, Kalimantan Barat - 78242]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[78242]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[MANADO]]></cabang>
+		<namacabang><![CDATA[MANADO]]></namacabang>
+		<namapic><![CDATA[DWI CAHYO SIWAN H (ODIH)]]></namapic>
+		<nopic><![CDATA[08114352727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. A. A. Maramis, Kairagi II, Mapanget, Manado Sulawesi Utara - 95254]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[95254]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[BATAM]]></cabang>
+		<namacabang><![CDATA[BATAM]]></namacabang>
+		<namapic><![CDATA[DODI CAHYONO]]></namapic>
+		<nopic><![CDATA[08117532727]]></nopic>
+		<alamatkantorcabang><![CDATA[Komplek Ruko Trikarsa Ekualita Blok 1 No. 1A - 1B, Sadai, Bengkong Batam, Kepulauan Riau - 29461]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[29461]]></kodeposkantorcabang>
+	</node>
+	<node>
+		<cabang><![CDATA[BANJARMASIN]]></cabang>
+		<namacabang><![CDATA[BANJARMASIN]]></namacabang>
+		<namapic><![CDATA[ANDY SURYA PRAMUDITA]]></namapic>
+		<nopic><![CDATA[08115222727]]></nopic>
+		<alamatkantorcabang><![CDATA[Jl. A. Yani Km. 12, Gambut Barat, Gambut, Banjar, Kalimantan Selatan - 70652]]></alamatkantorcabang>
+		<kodeposkantorcabang><![CDATA[70652]]></kodeposkantorcabang>
+	</node>
+</data>

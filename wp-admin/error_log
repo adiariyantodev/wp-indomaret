@@ -1,0 +1,181 @@
+[09-Jan-2025 16:33:12 UTC] Breakdance\AJAX\BreakdanceAjaxHandlerException thrown with message "Could not retrieve video from git branch -m master main"
+
+Stacktrace:
+#4 Breakdance\AJAX\BreakdanceAjaxHandlerException in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/breakdance/plugin/ajax/api.php:112
+#3 Breakdance\AJAX\{closure} in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php:324
+#2 WP_Hook:apply_filters in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php:348
+#1 WP_Hook:do_action in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/plugin.php:517
+#0 do_action in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-admin/admin-ajax.php:192
+
+[09-Jan-2025 16:33:18 UTC] Breakdance\AJAX\BreakdanceAjaxHandlerException thrown with message "Could not retrieve video from git branch -m master main"
+
+Stacktrace:
+#4 Breakdance\AJAX\BreakdanceAjaxHandlerException in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/breakdance/plugin/ajax/api.php:112
+#3 Breakdance\AJAX\{closure} in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php:324
+#2 WP_Hook:apply_filters in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php:348
+#1 WP_Hook:do_action in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/plugin.php:517
+#0 do_action in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-admin/admin-ajax.php:192
+
+[15-Jan-2025 09:26:59 UTC] PHP Warning:  Undefined array key "name" in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/breakdance/plugin/forms/custom/custom.php on line 359
+[15-Jan-2025 09:26:59 UTC] PHP Warning:  Undefined array key "email" in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/breakdance/plugin/forms/custom/custom.php on line 359
+[15-Jan-2025 09:26:59 UTC] PHP Warning:  Undefined array key "required" in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/breakdance/plugin/forms/custom/custom.php on line 341
+[15-Jan-2025 09:26:59 UTC] PHP Warning:  Undefined array key "aancem" in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/breakdance/plugin/forms/custom/custom.php on line 359
+[15-Jan-2025 09:30:26 UTC] PHP Warning:  Undefined array key "name" in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/breakdance/plugin/forms/custom/custom.php on line 359
+[15-Jan-2025 09:30:26 UTC] PHP Warning:  Undefined array key "email" in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/breakdance/plugin/forms/custom/custom.php on line 359
+[15-Jan-2025 09:30:26 UTC] PHP Warning:  Undefined array key "required" in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/breakdance/plugin/forms/custom/custom.php on line 341
+[15-Jan-2025 09:30:26 UTC] PHP Warning:  Undefined array key "aancem" in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/breakdance/plugin/forms/custom/custom.php on line 359
+[15-Jan-2025 09:42:07 UTC] WordPress database error Table 'adig2162_wp621.wp7w_actionscheduler_actions' doesn't exist for query SHOW COLUMNS FROM wp7w_actionscheduler_actions LIKE 'priority' made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_Versions::initialize_latest_version, action_scheduler_initialize_3_dot_6_dot_3, ActionScheduler::init, do_action('action_scheduler_pre_init'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}
+[16-Jan-2025 06:04:19 UTC] PHP Warning:  Undefined variable $kota_terms in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 44
+[16-Jan-2025 06:04:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 44
+[16-Jan-2025 06:04:25 UTC] PHP Warning:  Undefined variable $kota_terms in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 44
+[16-Jan-2025 06:04:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 44
+[16-Jan-2025 06:06:20 UTC] PHP Warning:  Undefined variable $kota_terms in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 44
+[16-Jan-2025 06:06:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 44
+[16-Jan-2025 06:06:24 UTC] PHP Warning:  Undefined variable $kota_terms in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 44
+[16-Jan-2025 06:06:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 44
+[16-Jan-2025 06:06:51 UTC] PHP Warning:  Undefined variable $kota_terms in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 44
+[16-Jan-2025 06:06:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 44
+[16-Jan-2025 06:08:19 UTC] PHP Warning:  Undefined variable $kota in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 46
+[16-Jan-2025 06:08:19 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 46
+[16-Jan-2025 06:08:19 UTC] PHP Warning:  Undefined variable $kota in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 47
+[16-Jan-2025 06:08:19 UTC] PHP Warning:  Attempt to read property "name" on null in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 47
+[16-Jan-2025 06:08:22 UTC] PHP Warning:  Undefined variable $kota in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 46
+[16-Jan-2025 06:08:22 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 46
+[16-Jan-2025 06:08:22 UTC] PHP Warning:  Undefined variable $kota in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 47
+[16-Jan-2025 06:08:22 UTC] PHP Warning:  Attempt to read property "name" on null in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 47
+[16-Jan-2025 06:08:28 UTC] PHP Warning:  Undefined variable $kota in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 46
+[16-Jan-2025 06:08:28 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 46
+[16-Jan-2025 06:08:28 UTC] PHP Warning:  Undefined variable $kota in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 47
+[16-Jan-2025 06:08:28 UTC] PHP Warning:  Attempt to read property "name" on null in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 47
+[16-Jan-2025 06:08:33 UTC] PHP Warning:  Undefined variable $kota in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 46
+[16-Jan-2025 06:08:33 UTC] PHP Warning:  Attempt to read property "term_id" on null in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 46
+[16-Jan-2025 06:08:33 UTC] PHP Warning:  Undefined variable $kota in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 47
+[16-Jan-2025 06:08:33 UTC] PHP Warning:  Attempt to read property "name" on null in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/themes/breakdance-zero-theme-master/functions.php on line 47
+[16-Jan-2025 08:39:14 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php:53
+Stack trace:
+#0 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php(87): import_lokasi_from_csv()
+#1 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(324): import_lokasi_page()
+#2 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-admin/admin.php(259): do_action()
+#5 {main}
+  thrown in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php on line 53
+[16-Jan-2025 08:41:02 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php:62
+Stack trace:
+#0 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php(118): import_lokasi_from_csv()
+#1 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(324): import_lokasi_page()
+#2 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-admin/admin.php(259): do_action()
+#5 {main}
+  thrown in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php on line 62
+[17-Jan-2025 00:56:14 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php:62
+Stack trace:
+#0 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php(118): import_lokasi_from_csv()
+#1 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(324): import_lokasi_page()
+#2 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-admin/admin.php(259): do_action()
+#5 {main}
+  thrown in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php on line 62
+[17-Jan-2025 01:01:07 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php:62
+Stack trace:
+#0 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php(118): import_lokasi_from_csv()
+#1 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(324): import_lokasi_page()
+#2 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-admin/admin.php(259): do_action()
+#5 {main}
+  thrown in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php on line 62
+[17-Jan-2025 01:02:01 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php:62
+Stack trace:
+#0 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php(118): import_lokasi_from_csv()
+#1 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(324): import_lokasi_page()
+#2 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-admin/admin.php(259): do_action()
+#5 {main}
+  thrown in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php on line 62
+[17-Jan-2025 01:03:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php:62
+Stack trace:
+#0 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php(118): import_lokasi_from_csv()
+#1 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(324): import_lokasi_page()
+#2 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-admin/admin.php(259): do_action()
+#5 {main}
+  thrown in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php on line 62
+[17-Jan-2025 01:05:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/taxonomy.php on line 1711
+[17-Jan-2025 01:06:08 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php:62
+Stack trace:
+#0 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php(118): import_lokasi_from_csv()
+#1 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(324): import_lokasi_page()
+#2 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-admin/admin.php(259): do_action()
+#5 {main}
+  thrown in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php on line 62
+[17-Jan-2025 01:07:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/formatting.php on line 1158
+[17-Jan-2025 01:08:41 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php:62
+Stack trace:
+#0 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php(118): import_lokasi_from_csv()
+#1 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(324): import_lokasi_page()
+#2 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-admin/admin.php(259): do_action()
+#5 {main}
+  thrown in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php on line 62
+[17-Jan-2025 01:10:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wpdb.php on line 3457
+[17-Jan-2025 02:13:50 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php:54
+Stack trace:
+#0 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php(127): import_lokasi_from_csv_with_branch()
+#1 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(324): import_lokasi_with_branch_page()
+#2 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-admin/admin.php(259): do_action()
+#5 {main}
+  thrown in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php on line 54
+[17-Jan-2025 02:14:59 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php:54
+Stack trace:
+#0 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php(127): import_lokasi_from_csv_with_branch()
+#1 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(324): import_lokasi_with_branch_page()
+#2 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-admin/admin.php(259): do_action()
+#5 {main}
+  thrown in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/import-lokasi-taxonomy/import-lokasi-taxonomy.php on line 54
+[17-Jan-2025 02:20:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wpdb.php on line 2316
+[17-Jan-2025 02:23:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/taxonomy.php on line 1765
+[17-Jan-2025 02:26:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-term-query.php on line 1133
+[17-Jan-2025 02:32:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-object-cache.php on line 406
+[17-Jan-2025 02:34:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/taxonomy.php on line 1714
+[17-Jan-2025 02:38:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-term-query.php on line 1130
+[17-Jan-2025 02:39:30 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 397312 bytes) in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/functions.php on line 7250
+[17-Jan-2025 02:41:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 655360 bytes) in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-object-cache.php on line 406
+[17-Jan-2025 02:42:08 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 655360 bytes) in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-object-cache.php on line 406
+[17-Jan-2025 02:46:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wpdb.php on line 1502
+[17-Jan-2025 02:49:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/functions.php on line 7250
+[17-Jan-2025 02:58:42 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 655360 bytes) in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-term-query.php on line 981
+[17-Jan-2025 03:00:09 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 655360 bytes) in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-term-query.php on line 981
+[17-Jan-2025 03:03:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/taxonomy.php on line 1757
+[17-Jan-2025 03:04:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-term.php on line 198
+[17-Jan-2025 03:05:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/taxonomy.php on line 1621
+[17-Jan-2025 03:11:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-object-cache.php on line 179
+[17-Jan-2025 03:12:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-term-query.php on line 1128
+[20-Jan-2025 06:59:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/PHPMailer/PHPMailer.php:880
+Stack trace:
+#0 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/PHPMailer/PHPMailer.php(1968): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/PHPMailer/PHPMailer.php(1691): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/PHPMailer/PHPMailer.php(1523): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/forminator/library/abstracts/abstract-class-mail.php(433): wp_mail()
+#5 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/forminator/library/modules/custom-forms/front/front-mail.php(232): Forminator_Mail->send_multiple()
+#6 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/forminator/library/modules/custom-forms/front/front-action.php(1108): Forminator_CForm_Front_Mail->process_mail()
+#7 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/forminator/library/modules/custom-forms/front/front-action.php(1090): Forminator_CForm_Front_Action::send_email()
+#8 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-content/plugins/forminator/library/abstracts/abstract-class-front-action.php(472): Forminator_CForm_Front_Action->handle_form()
+#9 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(324): Forminator_Front_Action->save_entry()
+#10 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/adig2162/public_html/indomaret.adiariyanto.my.id/wp-includes/PHPMailer/PHPMailer.php on line 880
